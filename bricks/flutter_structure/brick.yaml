@@ -1,0 +1,8 @@
+name: flutter_structure
+description: Scaffolds base Flutter project structure (assets, core, data, presentation)
+version: 0.1.0+1
+vars:
+  package_name:
+    type: string
+    description: Dart package name to use in imports (from pubspec.yaml:name)
+    default: app
