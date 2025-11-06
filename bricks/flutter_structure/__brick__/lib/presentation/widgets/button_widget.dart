@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:rifqa_app/core/themes/app_color.dart';
-import 'package:rifqa_app/core/themes/responsive_screen.dart';
-import 'package:rifqa_app/core/utils/app_constants.dart';
-import 'package:rifqa_app/core/utils/utils.dart';
-import 'package:rifqa_app/presentation/widgets/circular_progress_widget.dart';
-import 'package:rifqa_app/presentation/widgets/text_widget.dart';
+
 
 class ButtonWidget extends StatelessWidget {
   final VoidCallBack? onPressed;

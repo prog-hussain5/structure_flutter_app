@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
-import 'package:rifqa_app/core/themes/app_color.dart';
-import 'package:rifqa_app/core/utils/utils.dart';
-import 'package:rifqa_app/presentation/widgets/text_form_field_widget.dart';
-import 'package:rifqa_app/presentation/widgets/text_widget.dart';
+
 
 class AppBarWidget {
   static AppBar appBarWidget({

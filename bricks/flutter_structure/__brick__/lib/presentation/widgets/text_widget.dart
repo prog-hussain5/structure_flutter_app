@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rifqa_app/core/themes/app_color.dart';
-import 'package:rifqa_app/core/themes/responsive_screen.dart';
-import 'package:rifqa_app/core/utils/app_constants.dart';
+
 
 
 class TextWidget extends StatelessWidget {

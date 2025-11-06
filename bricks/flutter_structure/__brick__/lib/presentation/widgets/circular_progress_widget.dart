@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:rifqa_app/core/themes/app_color.dart';
 
 class CircularProgressWidget extends StatelessWidget {
   final Color color;

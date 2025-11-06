@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:rifqa_app/core/themes/app_color.dart';
-import 'package:rifqa_app/core/themes/responsive_screen.dart';
-import 'package:rifqa_app/core/utils/app_constants.dart';
-import 'package:rifqa_app/core/utils/utils.dart';
 import 'package:flutter/services.dart';
 
 
